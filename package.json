@@ -1,0 +1,18 @@
+{
+  "name": "MakerTracker",
+  "version": "0.0.1",
+  "description": "A visualization of the people and projects in a maker community. Developed for the MakerSpace community at Carnegie Mellon.",
+  "license": "MIT",
+  "contributors": [
+    { "name": "Sam Gruber", "email": "scgruber@club.cc.cmu.edu", "url": "http://www.scgruber.com" }
+  ],
+  "dependencies": {
+    "express": "4.1.x",
+    "mongoose": "3.8.x",
+    "jade": "1.3.x"
+  },
+  "engines": {
+    "node": ">=0.6.x"
+  },
+  "private": true
+}
